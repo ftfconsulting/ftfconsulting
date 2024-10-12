@@ -617,6 +617,13 @@ pre code {
   padding-left: 15px;
 }
 
+.contact-centered {
+  position: center;
+  width: 100%;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
 .col {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
