@@ -620,8 +620,8 @@ pre code {
 .contact-centered {
   position: center;
   width: 100%;
-  padding-right: 200px;
-  padding-left: 200px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .col {
